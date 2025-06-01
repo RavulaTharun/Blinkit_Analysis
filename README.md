@@ -15,7 +15,7 @@ The objective is to uncover key business insights related to sales, customer rat
 
 ## Business Requirement
 
-To conduct a comprehensive analysis of Blinkit's **sales performance**, **customer satisfaction**, and **inventory distribution** to identify opportunities for optimization using KPIs and visualizations in Power BI.
+# To conduct a comprehensive analysis of Blinkit's **sales performance**, **customer satisfaction**, and **inventory distribution** to identify opportunities for optimization using KPIs and visualizations in Power BI.
 
 ---
 
